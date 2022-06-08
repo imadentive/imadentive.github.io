@@ -36,5 +36,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
-<p>&copy; 2021 <a href="[index.html](index.html)">拍一</a> &nbsp; <span><a target="_blank" href="https://beian.miit.gov.cn">粤ICP备19100158号</a></span> </p> 
+<p>&copy; 2021 <a href="https://paiee.com/">拍一</a> &nbsp; <span><a target="_blank" href="https://beian.miit.gov.cn">粤ICP备19100158号</a></span> </p> 
 
